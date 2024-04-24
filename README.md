@@ -1,5 +1,5 @@
 
-# Cirrhosis Analysis Project 📊
+# Cirrhosis Predictor Project 📊
 ## Machine Learning Applied to Medical Data
 
 ### Overview 📑
